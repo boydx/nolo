@@ -2,7 +2,7 @@
 [Click here to go to the map](ch3d/index.html)
 
 # Video Flythrough
-[Video on YouTube](URL:https://youtu.be/XU8r6EIaW7g)
+[Video on YouTube](https://youtu.be/XU8r6EIaW7g)
 
 # Nolensville
 [Nolensville, TN Trail System](basemap/Nolensville.pdf)
